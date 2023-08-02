@@ -1,0 +1,8 @@
+﻿  D1rkInject.cpp
+C:\Users\saaad\Desktop\D1rkmtr 1.1\D1rkInject\D1rkInject\D1rkInject.cpp(26,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+C:\Users\saaad\Desktop\D1rkmtr 1.1\D1rkInject\D1rkInject\D1rkInject.cpp(26,9): message : consider using '%zd' in the format string
+  Generating code
+  Finished generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 99 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  D1rkInject.vcxproj -> C:\Users\saaad\Desktop\D1rkmtr 1.1\D1rkInject\x64\Release\D1rkInject.exe
